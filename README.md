@@ -31,9 +31,10 @@ A student-built PHP + MySQL web application that allows administrators to regist
 
 | Page | Screenshot |
 |------|------------|
-| Login | ![Login](screenshots/login.png) |
-| Dashboard | ![Dashboard](screenshots/dashboard.png) |
-| Schedule Trip | ![Schedule Trip](screenshots/schedule.png) |
+
+![login](https://github.com/user-attachments/assets/ed815f0d-af2e-4df4-b553-6380e687a8cf)
+![dashboard](https://github.com/user-attachments/assets/dcb789c2-66cf-489d-aaa6-140d4a7fa7d6)
+
 
 ---
 
